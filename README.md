@@ -1,24 +1,20 @@
-# One Big Text File (OBTF)
+# Simple Notes
 
-A minimalist note-taking app that focuses on simplicity and speed. OBTF provides a single text file for all your notes, with instant saving and a clean interface.
+A minimalist Android note-taking app that focuses on simplicity and speed. The app stores all your notes in a single text file, making it easy to backup and transfer your notes.
 
 ## Features
 
-- Single text file for all notes
-- Instant saving
-- Fast app launch
-- Simple search functionality
-- Clean, minimalist interface
-- No menus or multiple notes
-- Open source
+- Clean, distraction-free interface
+- Instant auto-saving
+- Single text file storage
+- No unnecessary features or complexity
+- Fast and lightweight
 
-## Development
+## Requirements
 
-This project is built using:
-- Kotlin
-- Android Jetpack Compose
-- Room Database for efficient storage
-- Material Design 3
+- Android 7.0 (API level 24) or higher
+- Kotlin 1.9.0 or higher
+- Android Studio Hedgehog or higher
 
 ## Building the Project
 
@@ -28,4 +24,8 @@ This project is built using:
 
 ## License
 
-This project is open source and available under the MIT License. 
+This project is open source and available under the MIT License. See the LICENSE file for more details.
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request. 
